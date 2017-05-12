@@ -1,0 +1,48 @@
+﻿@model ResidentialBlog.Models.RegisterViewModel
+@{
+    ViewBag.Title = "Регистриране";
+}
+
+<h2>@ViewBag.Title</h2>
+
+@using (Html.BeginForm("Register", "Account", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+{
+    @Html.AntiForgeryToken()
+    <hr />
+    @Html.ValidationSummary("", new { @class = "text-danger" })
+    <div class="form-group">
+        @Html.LabelFor(m => m.Email,"Емайл", new { @class = "col-sm-4 control-label" })
+        <div class="col-sm-4">
+            @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.FullName, "Име", new { @class = "col-sm-4 control-label" })
+        <div class="col-sm-4">
+            @Html.TextBoxFor(m => m.FullName, new { @class = "form-control" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Password,"Парола", new { @class = "col-sm-4 control-label" })
+        <div class="col-sm-4">
+            @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.ConfirmPassword,"Повтори паролата", new { @class = "col-sm-4 control-label" })
+        <div class="col-sm-4">
+            @Html.PasswordFor(m => m.ConfirmPassword, new { @class = "form-control" })
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-offset-4 col-sm-4">
+            <input type="submit" class="btn btn-default" value="Готово" />
+        </div>
+    </div>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

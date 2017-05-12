@@ -1,0 +1,138 @@
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\roslyn\csc.exe
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\roslyn\vbc.exe
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\roslyn\VBCSCompiler.exe
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\BasketballAcademyBlog.dll.config
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\BasketballAcademyBlog.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\BasketballAcademyBlog.pdb
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\Antlr3.Runtime.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\EntityFramework.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\EntityFramework.SqlServer.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\Microsoft.Owin.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\Microsoft.Owin.Security.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\Newtonsoft.Json.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\Owin.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\System.Web.Helpers.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\System.Web.Mvc.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\System.Web.Optimization.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\System.Web.Razor.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\System.Web.WebPages.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\System.Web.WebPages.Razor.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\WebGrease.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\System.Web.Helpers.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\System.Web.Mvc.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\System.Web.Optimization.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\System.Web.Razor.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\System.Web.WebPages.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\System.Web.WebPages.Razor.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\Antlr3.Runtime.pdb
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\Newtonsoft.Json.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\EntityFramework.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\EntityFramework.SqlServer.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\Microsoft.Owin.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\Microsoft.Owin.Security.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\obj\Debug\BasketballAcademyBlog.csprojResolveAssemblyReference.cache
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\obj\Debug\BasketballAcademyBlog.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog\BasketballAcademyBlog\obj\Debug\BasketballAcademyBlog.pdb
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\roslyn\csc.exe
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\roslyn\vbc.exe
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\roslyn\VBCSCompiler.exe
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\BasketballAcademyBlog.dll.config
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\BasketballAcademyBlog.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\BasketballAcademyBlog.pdb
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\Antlr3.Runtime.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\EntityFramework.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\EntityFramework.SqlServer.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\Microsoft.Owin.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\Microsoft.Owin.Security.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\Newtonsoft.Json.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\Owin.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\System.Web.Helpers.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\System.Web.Mvc.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\System.Web.Optimization.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\System.Web.Razor.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\System.Web.WebPages.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\System.Web.WebPages.Razor.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\WebGrease.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\System.Web.Helpers.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\System.Web.Mvc.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\System.Web.Optimization.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\System.Web.Razor.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\System.Web.WebPages.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\System.Web.WebPages.Razor.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\Antlr3.Runtime.pdb
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\Newtonsoft.Json.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\EntityFramework.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\EntityFramework.SqlServer.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\Microsoft.Owin.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\Microsoft.Owin.Security.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\obj\Debug\BasketballAcademyBlog.csprojResolveAssemblyReference.cache
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\obj\Debug\BasketballAcademyBlog.dll
+C:\Users\Stoycho\Desktop\BasketballAcademyBlog - Copy\BasketballAcademyBlog\obj\Debug\BasketballAcademyBlog.pdb

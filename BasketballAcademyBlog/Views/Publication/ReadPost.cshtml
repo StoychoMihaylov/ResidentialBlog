@@ -1,0 +1,101 @@
+﻿@model ResidentialBlog.Models.Publication
+
+@{
+    ViewBag.Title = "ReadPost";
+}
+
+<div class="container">
+    <div class="row">
+        <article class="col-sm-4">
+            <header>
+                <h2>
+                    @Model.Title
+                </h2>
+            </header>
+            <p>
+                @Model.Content
+            </p>
+            <small class="author">
+                Поставено от: @Model.Author.FullName
+                <br>
+                Дата: @Model.DateTime
+            </small>
+            <footer class="pull-right">
+                @if (User.IsInRole("Admin"))
+            {
+                    @Html.ActionLink("Изтрий", "Delete", "Publication", new { @id = Model.Id }, new { @class = "btn btn-danger btn-xs" })
+                }
+                @Html.ActionLink("Назад", "Index", "Publication", null, new { @class = "btn btn-default btn-xs" })
+            </footer>
+        </article>
+
+        <div class="col-sm-6">
+            @if (User.Identity.IsAuthenticated)
+            {
+                <iframe width="560"
+                        height="315"
+                        src="@Model.Link"
+                        frameborder="0"
+                        allowfullscreen></iframe>
+            }
+            else
+            {
+                <hr />
+                <p class="alert-dismissible">
+                    @Html.ActionLink("ВЛЕЗ С ПРОВИЛ", "Login", "Account", routeValues: null, htmlAttributes: new { id = "loginLink" })
+                    ИЛИ СЕ
+                    @Html.ActionLink("РЕГИСТРИРАЙ", "Register", "Account", routeValues: null, htmlAttributes: new { id = "registerLink" })
+                    <br> ЗА ПОВЕЧЕ ВЪЗМОЖНОСТИ.
+                </p>
+                <hr/>
+            }
+        </div>
+    </div>
+
+    <div class="col-md-12">
+        @if (Model.Comments.Count != 0)
+        {
+            <h4>Коментари:</h4>
+            <div class="blog-post-comments">
+                @foreach (var comment in Model.Comments.OrderBy(x => x.CreatedDate))
+                {
+                    <blockquote>
+                        <h4 class="comment-caption text-info">@comment.Name</h4>
+                        <p>@Html.Encode(comment.Body)</p>
+                        <small>@comment.CreatedDate</small>
+                        @if (comment.isAuthor(User.Identity.Name, comment) || User.IsInRole("Admin"))
+                        {
+                            @Html.ActionLink("Изтрий коментара", "DeleteComment", new { id = comment.ID }, new { @class = "text-danger" })
+                        }
+                    </blockquote>
+                }
+            </div>
+        }
+        @if (User.Identity.IsAuthenticated)
+        {
+            <div class="comment-editor">
+                @using (Html.BeginForm("Comment", "Publication", FormMethod.Post))
+                {
+                    @Html.AntiForgeryToken()
+
+                    <div class="form-horizontal">
+                        <h4>Добави коментар</h4>
+                        @User.Identity.Name
+                        <input type="hidden" value="@Model.Id" name="postID" />
+                        <div class="form-group">
+                            <div class="col-sm-6">
+                                <textarea class="form-control text-box multi-line" id="Message" name="Message" rows="3"></textarea>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <div class="col-sm-6">
+                                <input type="submit" value="Готово" class="btn btn-success" />
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        }
+    </div>
+</div>

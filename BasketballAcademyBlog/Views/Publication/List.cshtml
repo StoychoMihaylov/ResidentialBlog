@@ -1,0 +1,32 @@
+﻿@model List<ResidentialBlog.Models.Publication>
+
+@{
+    ViewBag.Title = "List";
+}
+<div class="container">
+    <div class="row">
+        @foreach (var publication in Model)
+        {
+            <article class="col-sm-6">
+                <header>
+                    <h2>
+                        <img src="~/Content/images/book.png" width="45" height="60" />
+                        @Html.ActionLink(@publication.Title, "ReadPost", "Publication", new { @id = publication.Id }, null)
+                    </h2>
+                </header>
+                <p>
+                    @publication.Content.Substring(0, @publication.Content.Length/3)...
+                    @Html.ActionLink("Прочети повече", "ReadPost", "Publication", new { @id = publication.Id }, null)
+                </p>
+                <footer>
+                    <small class="author">
+                        Поставено от: @publication.Author.FullName
+                        <br>
+                        На дата: @publication.DateTime
+                    </small>
+                </footer>
+            </article>
+        }
+    </div>
+</div>
+       
